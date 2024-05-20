@@ -22,4 +22,5 @@ This module has been written by Alexis de Lattre from Akretion <alexis.delattre@
     'depends': ['web_m2x_options'],
     'post_init_hook': 'web_m2x_options_create',
     'installable': True,
+    'auto_install': True,
 }

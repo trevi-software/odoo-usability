@@ -23,4 +23,5 @@ This module has been written by Alexis de Lattre <alexis.delattre@akretion.com> 
     'depends': ['base'],
     'data': ['views/partner_view.xml'],
     'installable': True,
+    'auto_install': True,
 }
