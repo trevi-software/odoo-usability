@@ -23,4 +23,5 @@ Base Partner Reference
     'depends': ['base'],
     'data': ['views/res_partner.xml'],
     'installable': True,
+    'auto_install': True,
 }
